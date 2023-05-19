@@ -8,7 +8,7 @@ function BlogPostsPage() {
 
     return (
         <div>
-            <h1>The Blog Posts Page</h1>
+            <h1>The Blog Posts </h1>
         </div>
     )
 }
